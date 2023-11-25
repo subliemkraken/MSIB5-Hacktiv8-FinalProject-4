@@ -4,4 +4,4 @@
  - Arrayyan Alaya Azzamachzachrie - GLNG-KS07-024
 
 ## Link Deployment
-https://https://msib5-hacktiv8-tokobelanja.up.railway.app
+https://msib5-hacktiv8-tokobelanja.up.railway.app
